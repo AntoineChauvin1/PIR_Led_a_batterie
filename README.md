@@ -16,5 +16,6 @@ D’étendre le délai avant extinction de 10min (le plus serait d’appuyer x f
 
 Le tout biensur avec allumage en douceur et extinction en 2 étapes :
 Baisse de la luminosité de 30% avant extinction en douceur (pour permettre à l’utilisateur de réagir avant d’être dans le noir complet)
-\_ Les plus\_: clignotement 1 fois toute les 3 min quand la batterie est a moins de 30% et toute les minutes à moins de 10%.
+
+Les plus: clignotement 1 fois toute les 3 min quand la batterie est a moins de 30% et toute les minutes à moins de 10%.
 Avec biensur retour dans HA du niveau de batterie.
